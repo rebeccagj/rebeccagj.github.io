@@ -1,0 +1,20 @@
+# Site settings
+title:       Rebecca Jaszczak
+author:      Rebecca Jaszczak 
+description: "Data Scientist by day, Artist by night."
+# baseurl:     ""
+url:         ""
+date_format: "%b %-d, %Y"
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics: 
+google_tag_manager:
+
+# Social icons
+github_username:   rebeccagj 
+stackoverflow_id:  rebeccagj
+twitter_username:  babybirdrebecca
+linkedin_username: rebecca-jaszczak
