@@ -1,11 +1,13 @@
 # Site settings
-title:       Rebecca Jaszczak
-author:      Rebecca Jaszczak 
+title: Rebecca Jaszczak
+author: Rebecca Jaszczak 
 description: "Data Scientist by day, Artist by night."
-# baseurl:     ""
-url:         ""
+url: "https://rebeccagj.github.io/"
 date_format: "%b %-d, %Y"
 markdown: kramdown
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 # Google services
 google_verification:
@@ -17,9 +19,5 @@ google_tag_manager:
 # Social icons
 github_username:   rebeccagj 
 stackoverflow_id:  rebeccagj
-twitter_username:  babybirdrebecca
+twitter_username:  rzbzz
 linkedin_username: rebecca-jaszczak
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
