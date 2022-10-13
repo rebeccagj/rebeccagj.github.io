@@ -5,6 +5,7 @@ description: "Data Scientist by day, Artist by night."
 # baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
+markdown: kramdown
 
 # Google services
 google_verification:
