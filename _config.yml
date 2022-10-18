@@ -6,7 +6,7 @@ url: "https://rebeccagj.github.io/"
 date_format: "%b %-d, %Y"
 markdown: kramdown
 
-logo: /assets/img/logo.png
+logo: /assets/img/profileimage.jpeg
 show_downloads: true
 theme: jekyll-theme-minimal
 
