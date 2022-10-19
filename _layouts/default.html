@@ -20,6 +20,7 @@
   <body>
     <div class="wrapper">
       <header>
+	      <center>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -28,8 +29,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% include sidebar.html %}
+	<p>{% include sidebar.html %}</p>
 
+	      </center>
       </header>
       <section>
 
