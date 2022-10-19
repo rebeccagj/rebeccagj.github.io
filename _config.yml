@@ -1,7 +1,7 @@
 # Site settings
 title: Rebecca Jaszczak
 author: Rebecca Jaszczak 
-description: "Data Scientist by day, Artist by night."
+description: "data scientist by day, artist by night"
 url: "https://rebeccagj.github.io/"
 date_format: "%b %-d, %Y"
 markdown: kramdown
